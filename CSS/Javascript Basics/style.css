@@ -14,6 +14,14 @@
     border-radius: 20px;
     padding:20px;
 }
+#header h1
+{
+    display: inline-block;
+}
+#searchbar{
+    display: inline-block;
+    margin-left: 700px;
+}
 #sidebar{
     display: inline-block;
     background-color: #297D8C;
